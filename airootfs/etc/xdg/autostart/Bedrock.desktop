@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=bash /usr/local/bin/lugos-configure-bedrock
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Configure Bedrock Linux on LugOS
+Comment=Configure Bedrock Linux on LugOS
+Encoding=UTF-8
+Version=1.0
+Terminal=false
